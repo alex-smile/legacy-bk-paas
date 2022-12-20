@@ -1,5 +1,8 @@
 Release Log
 ===============================
+# 2.14.39
+    - update: esb update minitor_v3, cc confapis
+
 # 2.14.38
     - update: esb update data confapis
 
